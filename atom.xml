@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>邵琦的Blog</title>
+  
+  
+  <link href="https://shaoqichn.com/atom.xml" rel="self"/>
+  
+  <link href="https://shaoqichn.com/"/>
+  <updated>1985-10-26T08:15:00.000Z</updated>
+  <id>https://shaoqichn.com/</id>
+  
+  <author>
+    <name>Shao Qi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://shaoqichn.com/2021/08/16/hello-world/"/>
+    <id>https://shaoqichn.com/2021/08/16/hello-world/</id>
+    <published>2021-08-16T09:32:05.277Z</published>
+    <updated>1985-10-26T08:15:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
